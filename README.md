@@ -1,4 +1,7 @@
 
+## SplitApp
+
+![Screenshot 2024-07-29 152122](https://github.com/user-attachments/assets/34cefb99-bcca-4405-9e64-ab56027202f0)
 
 ## Key Features
 - Create user groups and track group expense 
